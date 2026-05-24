@@ -77,11 +77,7 @@ ORDER 66 is a Python-based forensic triage tool built for rapid inspection of su
 - `olefile` 
 - `rarfile`
   
-Install required packages:
-
-```bash
-pip install pytsk3 customtkinter pyewf python-magic pefile yara-python LnkParse3 PyPDF2 olefile rarfile
-```
+## Install:
 
 > Download **Order66_Setup_v2.0.exe** and follow the install instructions.
 
