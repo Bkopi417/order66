@@ -1,4 +1,4 @@
-# ORDER 66 — DFIR Traige tool
+# ORDER 66 — DFIR Triage tool
 
 ORDER 66 is a Python-based forensic triage tool built for rapid inspection of suspicious storage devices and forensic images. It features a user friendly GUI and supports USB drives, mounted folders or disks, E01/Ex01 forensic images, and raw disk images — all from a single interface.
 
